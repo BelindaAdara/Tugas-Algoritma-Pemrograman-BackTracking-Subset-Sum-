@@ -8,7 +8,7 @@ class SubsetSumGUI:
         self.root.geometry("800x550")
         self.root.configure(bg="#f0f2f5")
 
-        # Data Awal
+        # Gambaran Data Awal
         self.nums = [3, 7, 4, 2, 6, 8]
         self.target = 23
         self.selected = []
